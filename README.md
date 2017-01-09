@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi, world.
+
+Hello everyone, I am a freshman on programing.
+I just trying how to use GitHub.
